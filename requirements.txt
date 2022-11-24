@@ -4,5 +4,6 @@ uvicorn
 pillow
 numpy
 gunicorn
-
+protobuf==3.20.*
+python-multipart
 
